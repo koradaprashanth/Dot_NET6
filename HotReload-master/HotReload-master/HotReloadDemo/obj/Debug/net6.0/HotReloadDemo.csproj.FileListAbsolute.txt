@@ -1,0 +1,52 @@
+C:\Users\we\source\repos\HotReloadDemo\HotReloadDemo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\we\source\repos\HotReloadDemo\HotReloadDemo\bin\Debug\net6.0\appsettings.json
+C:\Users\we\source\repos\HotReloadDemo\HotReloadDemo\bin\Debug\net6.0\HotReloadDemo.staticwebassets.runtime.json
+C:\Users\we\source\repos\HotReloadDemo\HotReloadDemo\bin\Debug\net6.0\HotReloadDemo.exe
+C:\Users\we\source\repos\HotReloadDemo\HotReloadDemo\bin\Debug\net6.0\HotReloadDemo.deps.json
+C:\Users\we\source\repos\HotReloadDemo\HotReloadDemo\bin\Debug\net6.0\HotReloadDemo.runtimeconfig.json
+C:\Users\we\source\repos\HotReloadDemo\HotReloadDemo\bin\Debug\net6.0\HotReloadDemo.dll
+C:\Users\we\source\repos\HotReloadDemo\HotReloadDemo\bin\Debug\net6.0\HotReloadDemo.pdb
+C:\Users\we\source\repos\HotReloadDemo\HotReloadDemo\obj\Debug\net6.0\HotReloadDemo.csproj.AssemblyReference.cache
+C:\Users\we\source\repos\HotReloadDemo\HotReloadDemo\obj\Debug\net6.0\HotReloadDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\we\source\repos\HotReloadDemo\HotReloadDemo\obj\Debug\net6.0\HotReloadDemo.AssemblyInfoInputs.cache
+C:\Users\we\source\repos\HotReloadDemo\HotReloadDemo\obj\Debug\net6.0\HotReloadDemo.AssemblyInfo.cs
+C:\Users\we\source\repos\HotReloadDemo\HotReloadDemo\obj\Debug\net6.0\HotReloadDemo.csproj.CoreCompileInputs.cache
+C:\Users\we\source\repos\HotReloadDemo\HotReloadDemo\obj\Debug\net6.0\HotReloadDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\we\source\repos\HotReloadDemo\HotReloadDemo\obj\Debug\net6.0\HotReloadDemo.RazorAssemblyInfo.cache
+C:\Users\we\source\repos\HotReloadDemo\HotReloadDemo\obj\Debug\net6.0\HotReloadDemo.RazorAssemblyInfo.cs
+C:\Users\we\source\repos\HotReloadDemo\HotReloadDemo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\we\source\repos\HotReloadDemo\HotReloadDemo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\we\source\repos\HotReloadDemo\HotReloadDemo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\we\source\repos\HotReloadDemo\HotReloadDemo\obj\Debug\net6.0\scopedcss\bundle\HotReloadDemo.styles.css
+C:\Users\we\source\repos\HotReloadDemo\HotReloadDemo\obj\Debug\net6.0\scopedcss\projectbundle\HotReloadDemo.bundle.scp.css
+C:\Users\we\source\repos\HotReloadDemo\HotReloadDemo\obj\Debug\net6.0\HotReloadDemo.dll
+C:\Users\we\source\repos\HotReloadDemo\HotReloadDemo\obj\Debug\net6.0\refint\HotReloadDemo.dll
+C:\Users\we\source\repos\HotReloadDemo\HotReloadDemo\obj\Debug\net6.0\HotReloadDemo.pdb
+C:\Users\we\source\repos\HotReloadDemo\HotReloadDemo\obj\Debug\net6.0\HotReloadDemo.genruntimeconfig.cache
+C:\Users\we\source\repos\HotReloadDemo\HotReloadDemo\obj\Debug\net6.0\ref\HotReloadDemo.dll
+C:\Users\PKorada\Desktop\SLB Work\kdsc talk\Projects\HotReload-master\HotReload-master\HotReloadDemo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\PKorada\Desktop\SLB Work\kdsc talk\Projects\HotReload-master\HotReload-master\HotReloadDemo\bin\Debug\net6.0\appsettings.json
+C:\Users\PKorada\Desktop\SLB Work\kdsc talk\Projects\HotReload-master\HotReload-master\HotReloadDemo\bin\Debug\net6.0\HotReloadDemo.staticwebassets.runtime.json
+C:\Users\PKorada\Desktop\SLB Work\kdsc talk\Projects\HotReload-master\HotReload-master\HotReloadDemo\bin\Debug\net6.0\HotReloadDemo.exe
+C:\Users\PKorada\Desktop\SLB Work\kdsc talk\Projects\HotReload-master\HotReload-master\HotReloadDemo\bin\Debug\net6.0\HotReloadDemo.deps.json
+C:\Users\PKorada\Desktop\SLB Work\kdsc talk\Projects\HotReload-master\HotReload-master\HotReloadDemo\bin\Debug\net6.0\HotReloadDemo.runtimeconfig.json
+C:\Users\PKorada\Desktop\SLB Work\kdsc talk\Projects\HotReload-master\HotReload-master\HotReloadDemo\bin\Debug\net6.0\HotReloadDemo.dll
+C:\Users\PKorada\Desktop\SLB Work\kdsc talk\Projects\HotReload-master\HotReload-master\HotReloadDemo\bin\Debug\net6.0\HotReloadDemo.pdb
+C:\Users\PKorada\Desktop\SLB Work\kdsc talk\Projects\HotReload-master\HotReload-master\HotReloadDemo\obj\Debug\net6.0\HotReloadDemo.csproj.AssemblyReference.cache
+C:\Users\PKorada\Desktop\SLB Work\kdsc talk\Projects\HotReload-master\HotReload-master\HotReloadDemo\obj\Debug\net6.0\HotReloadDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PKorada\Desktop\SLB Work\kdsc talk\Projects\HotReload-master\HotReload-master\HotReloadDemo\obj\Debug\net6.0\HotReloadDemo.AssemblyInfoInputs.cache
+C:\Users\PKorada\Desktop\SLB Work\kdsc talk\Projects\HotReload-master\HotReload-master\HotReloadDemo\obj\Debug\net6.0\HotReloadDemo.AssemblyInfo.cs
+C:\Users\PKorada\Desktop\SLB Work\kdsc talk\Projects\HotReload-master\HotReload-master\HotReloadDemo\obj\Debug\net6.0\HotReloadDemo.csproj.CoreCompileInputs.cache
+C:\Users\PKorada\Desktop\SLB Work\kdsc talk\Projects\HotReload-master\HotReload-master\HotReloadDemo\obj\Debug\net6.0\HotReloadDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PKorada\Desktop\SLB Work\kdsc talk\Projects\HotReload-master\HotReload-master\HotReloadDemo\obj\Debug\net6.0\HotReloadDemo.RazorAssemblyInfo.cache
+C:\Users\PKorada\Desktop\SLB Work\kdsc talk\Projects\HotReload-master\HotReload-master\HotReloadDemo\obj\Debug\net6.0\HotReloadDemo.RazorAssemblyInfo.cs
+C:\Users\PKorada\Desktop\SLB Work\kdsc talk\Projects\HotReload-master\HotReload-master\HotReloadDemo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\PKorada\Desktop\SLB Work\kdsc talk\Projects\HotReload-master\HotReload-master\HotReloadDemo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\PKorada\Desktop\SLB Work\kdsc talk\Projects\HotReload-master\HotReload-master\HotReloadDemo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PKorada\Desktop\SLB Work\kdsc talk\Projects\HotReload-master\HotReload-master\HotReloadDemo\obj\Debug\net6.0\scopedcss\bundle\HotReloadDemo.styles.css
+C:\Users\PKorada\Desktop\SLB Work\kdsc talk\Projects\HotReload-master\HotReload-master\HotReloadDemo\obj\Debug\net6.0\scopedcss\projectbundle\HotReloadDemo.bundle.scp.css
+C:\Users\PKorada\Desktop\SLB Work\kdsc talk\Projects\HotReload-master\HotReload-master\HotReloadDemo\obj\Debug\net6.0\HotReloadDemo.dll
+C:\Users\PKorada\Desktop\SLB Work\kdsc talk\Projects\HotReload-master\HotReload-master\HotReloadDemo\obj\Debug\net6.0\refint\HotReloadDemo.dll
+C:\Users\PKorada\Desktop\SLB Work\kdsc talk\Projects\HotReload-master\HotReload-master\HotReloadDemo\obj\Debug\net6.0\HotReloadDemo.pdb
+C:\Users\PKorada\Desktop\SLB Work\kdsc talk\Projects\HotReload-master\HotReload-master\HotReloadDemo\obj\Debug\net6.0\HotReloadDemo.genruntimeconfig.cache
+C:\Users\PKorada\Desktop\SLB Work\kdsc talk\Projects\HotReload-master\HotReload-master\HotReloadDemo\obj\Debug\net6.0\ref\HotReloadDemo.dll
